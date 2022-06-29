@@ -1,7 +1,7 @@
 dependencies:
 - name: newrelic-infrastructure
   repository: https://newrelic.github.io/nri-kubernetes
-  version: 3.6.2
+  version: 3.6.3
 - name: nri-prometheus
   repository: https://newrelic.github.io/nri-prometheus
   version: 2.1.6
@@ -29,5 +29,5 @@ dependencies:
 - name: newrelic-infra-operator
   repository: https://newrelic.github.io/newrelic-infra-operator
   version: 1.0.3
-digest: sha256:b463566e38953d1ccb4f03238c736f02631b1e7299b30912df7f86e448d2b4c0
-generated: "2022-06-24T01:10:57.997963179Z"
+digest: sha256:29dabc0f792289f0ab10fa000f334ce2a853faae5571a66f16b37df625721be1
+generated: "2022-06-29T10:53:07.051493822Z"
