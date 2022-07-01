@@ -1,10 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2022-07-01T11:52:32.043657616Z"
-description: New Relic Synthetics Containerized Private Minion (CPM)
-keywords:
-- synthetics-minion
-name: synthetics-minion
-type: application
-urls:
-- https://github.com/myeusiyevich/helm-charts/tree/devops/docs/synthetics-minion-1.0.51_custom.tar.gz
+entries:
+  common-library:
+  - apiVersion: v2
+    generated: "2022-07-01T11:52:32.043657616Z"
+    description: New Relic Synthetics Containerized Private Minion (CPM)
+    keywords:
+    - synthetics-minion
+    name: synthetics-minion
+    type: application
+    urls:
+    - https://github.com/myeusiyevich/helm-charts/tree/devops/docs/synthetics-minion-1.0.51_custom.tar.gz
+    version: 1.0.51
