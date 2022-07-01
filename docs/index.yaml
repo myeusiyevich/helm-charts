@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   common-library:
   - apiVersion: v2
-    generated: "2022-07-01T11:52:32.043657616Z"
+    created: "2022-07-01T11:52:32.043657616Z"
     description: New Relic Synthetics Containerized Private Minion (CPM)
     keywords:
     - synthetics-minion
