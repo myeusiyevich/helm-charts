@@ -7,4 +7,4 @@ keywords:
 name: synthetics-minion
 type: application
 urls:
-- https://github.com/myeusiyevich/helm-charts/docs/synthetics-minion-1.0.51_custom.tar.gz
+- https://github.com/myeusiyevich/helm-charts/tree/devops/docs/synthetics-minion-1.0.51_custom.tar.gz
