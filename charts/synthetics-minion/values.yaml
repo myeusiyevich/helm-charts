@@ -22,7 +22,7 @@ synthetics:
   # Other Options:
   # 1. DEBUG: These messages report detailed diagnostic information and more information than you'd want in normal production situations.
   # 2. TRACE: These messages capture every detail you possibly can about the minion's behavior.
-  minionLogLevel: "INFO"
+  minionLogLevel: "TRACE"
   # The number of workers the minion will use to run heavy jobs (BROWSER, SCRIPT_BROWSER, SCRIPT_API). The maximum allowed value for this parameter is 50.
   heavyWorkers: "2"
   # The number of workers the minion will use to run lightweight jobs (SIMPLE Ping Jobs). The maximum allowed value for this parameter is 1250.
