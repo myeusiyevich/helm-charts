@@ -10,5 +10,5 @@ entries:
     name: synthetics-minion
     type: application
     urls:
-     - https://raw.githubusercontent.com/myeusiyevich/helm-charts/devops/docs/synthetics-minion-custom-1.0.56.tgz
+     - https://raw.githubusercontent.com/myeusiyevich/helm-charts/devops/docs/synthetics-minion-1.0.56.tgz
     version: 1.0.56
