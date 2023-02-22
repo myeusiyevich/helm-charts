@@ -67,7 +67,7 @@ synthetics:
 
 image:
   # This parameter determines what container the pod will run as.
-  repository: 034560576288.dkr.ecr.cn-north-1.amazonaws.com.cn/quay.io/newrelic/synthetics-minion
+  repository: quay.io/newrelic/synthetics-minion
   # The pull policy is defaulted to IfNotPresent, which skips pulling an image if it already exists. If pullPolicy is defined without a specific value, it is also set to Always.
   pullPolicy: IfNotPresent
 
